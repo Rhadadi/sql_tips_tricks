@@ -1,1 +1,1 @@
-# sql_tips_tricks
+# SQL Tips and Tricks for Data Analysis
